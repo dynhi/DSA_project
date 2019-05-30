@@ -2,6 +2,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Mar 28 16:03:56 2019
+
+@author: Ho Dang Phuong Ngoc
+
 """
 import DSA_battleship as bs
 
@@ -127,4 +130,21 @@ class Backend:
             return [Backend.battleShipGame.getLatestSunkShipName(True),
                     Backend.battleShipGame.getLatestSunkShipName(True)]
         return None
+    
+    
+    
+    
+        
+    
+    
+        
+    
+        
+        
+        
+        
+        
+        
+        
+    
     
